@@ -37,7 +37,7 @@ The puzzles and their initial state are coded as follows in the text files:
 - `sokoban.py`: contains a class Warehouse that allows you to load puzzle instances from text files.
 - `sokoban_gui.py`: a GUI implementation of Sokoban that allows you to play and explore puzzles. This GUI program can call the planner function solve_weighted_sokoban
 - `mySokobanSolver.py`: solver using heuristic search.
-- `sanity_check.py`: script to perform very basic tests on mySokobanSolver.py. The marker will use a different script with different warehouses.
+- `sanity_check.py`: script to perform very basic tests on mySokobanSolver.py.
 - `warehouses/`: a number of warehouse puzzles.
 
 
